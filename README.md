@@ -1,7 +1,5 @@
-<div align="center">
-  
+![Header](./header/github-header-banner.png)
 
-</div>
 
 <p align="center">
   <a href="https://www.instagram.com/jainam___777/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a> 
