@@ -12,6 +12,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Jainam116&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jainam116&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![](https://github-readme-stats.vercel.app/api?username=Jainam116&show_icons=true&theme=dark)](https://github.com/Jainam116/github-readme-stats)
+
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 
