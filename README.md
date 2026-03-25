@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/jainamkhara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jainamkhara/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jainam___777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jainam___777/" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Jainam116/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Jainam116/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/JainamKhara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/JainamKhara/" height="30" width="40" /></a>
 </p>
 
 <!-- --- -->
@@ -52,7 +52,7 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Jainam116&theme=dark&hide_border=false" alt="Jainam's Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=JainamKhara&theme=dark&hide_border=false" alt="Jainam's Streak" />
 </p>
 
 <p align="center">
